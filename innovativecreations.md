@@ -53,6 +53,6 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | External hdd (for storing the data) | (https://amzn.eu/d/dCNAXM8) | $52.09 |
 | Extension Board | https://amzn.eu/d/26a5Cw6 | $10.10 |
 | Soldering kit | shorturl.at/RZ036 | $22.34 |
-| PLA+ | shorturl.at/rv039 | $16.66 |
-| Total           |                                       | ~$252 |
+| Power Supply 5V 5A and 5V 1A | shorturl.at/rBXY9 , shorturl.at/kAKUW | $18.24 |
+| Total           |                                       | ~$254 |
 ## All prices are converted from INR TO USD
